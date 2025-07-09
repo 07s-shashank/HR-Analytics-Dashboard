@@ -10,11 +10,11 @@ This project is an Excel-based HR Analytics Dashboard designed to visualize key 
 
 ## Preview
 
-*(Add a screenshot in the `screenshots/` folder and embed it here)*
+![Dashboard Preview](screenshots/dashboard.png)
 
 ## File
 
-- `dashboard-practice.xlsx` — Main dashboard file
+- `Employee.xlsx` — Main dashboard file
 
 ## Author
 
