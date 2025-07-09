@@ -10,7 +10,7 @@ This project is an Excel-based HR Analytics Dashboard designed to visualize key 
 
 ## Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]([dashboard.png](https://github.com/07s-shashank/HR-Analytics-Dashboard/blob/main/Dashboard.png))
 
 ## File
 
